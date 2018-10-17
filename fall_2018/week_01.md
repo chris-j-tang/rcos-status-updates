@@ -1,22 +1,3 @@
-## Last Week's Accomplishments
+All the coordinators met up on Sunday to organize the open source projects into their respective small groups. We initially had issues with overfilling multiple small groups, as there was a huge surge in the numbers of people taking RCOS for credit, and we never had to scale to such levels before. When doing so, we also noticed that we had a shortage of mentors in certain small groups (as mentors are typically attached to their open source project, which are placed in a small group with other projects), and other small groups had a relatively larger amount of mentors.
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
-
-## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
-
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+We agreed that it would work best to have rotating coordinators to help cover the lack of mentors and oversight during the small groups, and look forward to seeing how small groups pan out for now! I have been stationed at the OSCP small group, as they're so big (and brand new) as an open source project they have an entire room to themselves with only mentor available (Milena).
